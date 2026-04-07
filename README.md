@@ -21,7 +21,7 @@
 
 <!-- Connect with me -->
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/dhruba-bhattacharyya/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
   </a>
   <a href="https://discord.com/users/YOUR_DISCORD">
@@ -30,7 +30,7 @@
   <a href="https://twitter.com/YOUR_TWITTER">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:dhrubabhattacharyya13@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
   </a>
 </div>
