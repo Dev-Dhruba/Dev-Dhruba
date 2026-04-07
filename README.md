@@ -130,33 +130,6 @@ fun_fact: "<!-- FILL A FUN FACT ABOUT YOU -->"
   </picture>
 </div>
 
-<!--
-  🐍 SNAKE SETUP: To enable the contribution snake animation above,
-  create .github/workflows/snake.yml in your profile repo with:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Dev-Dhruba
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
 ---
 
 <!-- Footer -->
