@@ -19,6 +19,22 @@
   <img src="https://komarev.com/ghpvc/?username=Dev-Dhruba&style=for-the-badge&color=0057ff&labelColor=0d1117&label=VISITORS"/>
 </div>
 
+<!-- Connect with me -->
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  </a>
+</div>
+
 <br/>
 
 <!-- Terminal-style About Section -->
@@ -44,22 +60,6 @@ const dhruba = {
 };
 ```
 
-</div>
-
-<!-- Socials with neon style -->
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-  </a>
 </div>
 
 <br/>
@@ -172,20 +172,6 @@ const dhruba = {
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- GitHub Trophies -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"/>
-  GitHub Trophies
-</h2>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dev-Dhruba&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
-  </a>
-</div>
 
 <br/>
 
