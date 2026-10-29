@@ -9,6 +9,7 @@ on:
     paths:
       - .github/workflows/profile-3d.yml
       - .github/profile-3d-settings.json
+      - .github/scripts/animate_skyline.py
 
 jobs:
   build:
@@ -23,6 +24,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Dev-Dhruba
           SETTING_JSON: .github/profile-3d-settings.json
+
+      - name: Add ripple, stars and glow
+        run: python3 .github/scripts/animate_skyline.py profile-3d-contrib/profile-neon-city.svg
 
       - name: Commit & Push
         run: |
