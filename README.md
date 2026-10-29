@@ -1,230 +1,167 @@
-<!-- Matrix-style header -->
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d9ff,50:0057ff,100:bd00ff&height=200&section=header&text=Dhruba%20Bhattacharyya&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&stroke=00d9ff&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d9ff,50:0057ff,100:bd00ff&height=230&section=header&text=Dhruba%20Bhattacharyya&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%C2%B7%20DevOps%20%C2%B7%20AI%20Builder&descSize=18&descAlignY=58&animation=twinkling&stroke=00d9ff&strokeWidth=1" width="100%" alt="Dhruba Bhattacharyya"/>
 </div>
 
-<!-- Glitch-style typing -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=%3E+Turning+ideas+into+reality;%3E+Full+Stack+%2B+DevOps+Engineer;%3E+Open+Source+Advocate" alt="Typing SVG" />
+  <a href="https://portfolio.devdhruba.xyz/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&height=50&lines=%3E+Full+Stack+%2B+DevOps+Engineer;%3E+Building+AI-powered+supply+chains;%3E+Next.js+%C2%B7+TypeScript+%C2%B7+Vercel+AI+SDK;%3E+Turning+ideas+into+shipped+products" alt="Typing intro"/>
   </a>
 </div>
 
-<br/>
-
-<!-- Animated badges row -->
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud-00d9ff?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-bd00ff?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://komarev.com/ghpvc/?username=Dev-Dhruba&style=for-the-badge&color=0057ff&labelColor=0d1117&label=VISITORS"/>
+  <img src="https://img.shields.io/badge/Based%20in-Kolkata%2C%20India-bd00ff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Dev-Dhruba&style=for-the-badge&color=0057ff&labelColor=0d1117&label=PROFILE%20VIEWS"/>
 </div>
-
-<!-- Connect with me -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/dhruba-bhattacharyya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/>
-  </a>
-  <a href="mailto:dhrubabhattacharyya13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- Terminal-style About Section -->
-<div align="center">
-
-```js
-// About.js - Who am I?
-const dhruba = {
-    pronouns: "he/him",
-    location: "Kolkata, India 🇮🇳",
-
-    currentMission: "AI-powered supply chain management systems",
-    techPassion: ["Next.js", "TypeScript", "Vercel AI SDK"],
-
-    exploring: {
-        domains: ["AI for Education", "Healthcare Tech", "Supply Chain"],
-        skills: ["DevOps", "Cloud Infrastructure", "Scalability"]
-    },
-
-    askMeAbout: ["Web Development", "DevOps", "System Design"],
-
-    funFact: "I debug with console.log and I'm not ashamed 😄"
-};
-```
-
-</div>
-
-<br/>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Tech Arsenal -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"/>
-  Tech Arsenal
-</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/>
-        <br><b>TypeScript</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
-        <br><b>JavaScript</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
-        <br><b>Python</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
-        <br><b>Java</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
-        <br><b>C++</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
-        <br><b>React</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="65" height="65"/>
-        <br><b>Next.js</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind" width="65" height="65"/>
-        <br><b>Tailwind</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65"/>
-        <br><b>Nginx</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-        <br><b>Docker</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="65" height="65"/>
-        <br><b>Node.js</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" width="65" height="65"/>
-        <br><b>Express</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
-        <br><b>MySQL</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="65" height="65"/>
-        <br><b>MongoDB</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="65" height="65"/>
-        <br><b>PostgreSQL</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
-        <br><b>GitHub</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="65" height="65"/>
-        <br><b>Linux</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="65" height="65"/>
-        <br><b>Redis</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" width="65" height="65"/>
-        <br><b>Firebase</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" width="65" height="65"/>
-        <br><b>Vercel</b>
-      </td>
-    </tr>
-  </table>
+  <a href="https://portfolio.devdhruba.xyz/"><img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/></a>
+  <a href="https://www.linkedin.com/in/dhruba-bhattacharyya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dhrubabhattacharyya13@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Dev-Dhruba?tab=followers"><img src="https://img.shields.io/github/followers/Dev-Dhruba?style=for-the-badge&logo=github&label=Follow&labelColor=0d1117&color=bd00ff"/></a>
+  <!-- Add more once you have the handles:
+  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  -->
 </div>
 
 <br/>
 
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="whoami → Dhruba Bhattacharyya, Full Stack + DevOps Engineer from Kolkata, building AI-powered supply chain systems at SupplAI"/>
+</div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
 
-<!-- Stats Section with unique layout -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="24"/>
-  Analytics
-</h2>
+<!-- ═══════════════════════════  PROJECTS  ═══════════════════════════ -->
+<h2 align="center">🚀 Featured Work</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-Dhruba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=bd00ff&text_color=c9d1d9&ring_color=00d9ff" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Dhruba&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=bd00ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak"/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 SupplAI · Buyer Dashboard</h3>
+      <p>Buyer side of an AI-driven supply chain platform. I built the <b>agentic AI assistant</b> with its own knowledge base and a <b>web-scraping chatbot</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+      </p>
+      <a href="https://buyer-dashboard.supplai.shop"><img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/></a>
+      <a href="https://github.com/SupplAI-Organization/buyers-dashboard"><img src="https://img.shields.io/badge/Source-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ Prep-Pulse</h3>
+      <p>AI mock-interview platform. A real-time <b>voice agent</b> runs the interview, <b>Gemini</b> writes role-specific questions, and <b>face expression analysis</b> scores how you came across.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vapi_AI-1a1b27?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      </p>
+      <a href="https://prep-pulse-ten.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/></a>
+      <a href="https://github.com/Dev-Dhruba/Prep-Pulse"><img src="https://img.shields.io/badge/Source-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 LangQuest</h3>
+      <p>Desktop app for learning a new language through <b>scene-based conversations</b>, voiced by lifelike <b>Murf AI</b> speech.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+      </p>
+      <a href="https://lang-quest-installer-website.vercel.app/"><img src="https://img.shields.io/badge/Download-bd00ff?style=for-the-badge&logo=electron&logoColor=white"/></a>
+      <a href="https://github.com/LangQuest-App/LangQuest"><img src="https://img.shields.io/badge/Source-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Hackathons &amp; Collabs</h3>
+      <p>
+        ⚡ <a href="https://github.com/rcciit-swc/techtrix-2026"><b>TechTrix 2026</b></a>: hero section, events cluster and navbar for RCCIIT's tech fest site<br/><br/>
+        🌊 <a href="https://github.com/FloatChatSIH/Frontend"><b>FloatChat · SIH</b></a>: filters and dialog UI for the hackathon frontend<br/><br/>
+        🛍️ <a href="https://github.com/SupplAI-Organization/sellers-dashboard-standardized"><b>SupplAI Seller Dashboard</b></a>: shared layout, discount and order fixes
+      </p>
+      <a href="https://github.com/search?q=is%3Apr+author%3ADev-Dhruba+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/All_Merged_PRs-0057ff?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ═══════════════════════════  TECH  ═══════════════════════════ -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Dhruba&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=00d9ff&line=bd00ff&point=ffffff&area=true&area_color=00d9ff" width="95%" alt="Activity Graph"/>
+<table>
+  <tr>
+    <td align="center" width="150"><b>💻 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp&theme=dark" alt="TypeScript, JavaScript, Python, Java, C++"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,linux,vercel,github&theme=dark" alt="Docker, Nginx, Linux, Vercel, GitHub"/></td>
+  </tr>
+</table>
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
 
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<br/>
+<!-- Cards are regenerated daily by .github/workflows/profile-cards.yml -->
+<div align="center">
+  <!-- This card prints the Location field from your GitHub profile. Set it to "Kolkata, India" first, then uncomment:
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Contributions"/>
+  -->
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most used languages"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="When I code"/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
+  <img src="https://streak-stats.demolab.com?user=Dev-Dhruba&theme=tokyonight&hide_border=true&background=1A1B27&ring=BF91F3&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=70A5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" alt="GitHub streak"/>
+</div>
 
-<!-- Snake Animation -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="24"/>
-  Contribution Snake
-</h2>
+<!-- ═══════════════════════════  SNAKE  ═══════════════════════════ -->
+<h2 align="center">🐍 Watch It Eat My Contributions</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Dhruba/Dev-Dhruba/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Dhruba/Dev-Dhruba/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Dev-Dhruba/Dev-Dhruba/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Dhruba/Dev-Dhruba/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Dhruba/Dev-Dhruba/output/github-snake.svg"/>
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Dev-Dhruba/Dev-Dhruba/output/github-snake-dark.svg"/>
   </picture>
 </div>
 
 <br/>
 
-<!-- Quote Section -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote"/>
 </div>
 
-<br/>
-
-<!-- Footer -->
+<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0057ff,100:bd00ff&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd00ff,50:0057ff,100:00d9ff&height=130&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%"/>
 </div>
 
 <!-- Hidden Easter Egg -->
