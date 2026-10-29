@@ -1,0 +1,14 @@
+{
+  "type": "rainbow",
+  "fileName": "profile-neon-city.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#e6edf3",
+  "strongColor": "#00d9ff",
+  "weakColor": "#8b949e",
+  "radarColor": "#bd00ff",
+  "growingAnimation": true,
+  "saturation": "75%",
+  "contribLightness": ["16%", "34%", "42%", "50%", "58%"],
+  "duration": "10s",
+  "hueRatio": -7
+}

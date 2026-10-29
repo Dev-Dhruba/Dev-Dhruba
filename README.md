@@ -104,23 +104,49 @@
 <table>
   <tr>
     <td align="center" width="150"><b>💻 Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp&theme=dark" alt="TypeScript, JavaScript, Python, Java, C++"/></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" title="TypeScript" width="52" height="52"/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" title="JavaScript" width="52" height="52"/>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" title="Python" width="52" height="52"/>
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" title="Java" width="52" height="52"/>
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" title="C++" width="52" height="52"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>🎨 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind"/></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" title="React" width="52" height="52"/>
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" width="52" height="52"/>
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>⚙️ Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" width="52" height="52"/>
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" title="Express" width="52" height="52"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>🗄️ Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="52" height="52"/>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" title="MySQL" width="52" height="52"/>
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB" width="52" height="52"/>
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" width="52" height="52"/>
+      <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" title="Supabase" width="52" height="52"/>
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase" width="52" height="52"/>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>☁️ DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,nginx,linux,vercel,github&theme=dark" alt="Docker, Nginx, Linux, Vercel, GitHub"/></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" title="Docker" width="52" height="52"/>
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" title="Nginx" width="52" height="52"/>
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="52" height="52"/>
+      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel" width="52" height="52"/>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" title="GitHub" width="52" height="52"/>
+    </td>
   </tr>
 </table>
 </div>
@@ -142,15 +168,12 @@
   <img src="https://streak-stats.demolab.com?user=Dev-Dhruba&theme=tokyonight&hide_border=true&background=1A1B27&ring=BF91F3&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=70A5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" alt="GitHub streak"/>
 </div>
 
-<!-- ═══════════════════════════  SNAKE  ═══════════════════════════ -->
-<h2 align="center">🐍 Watch It Eat My Contributions</h2>
+<!-- ═══════════════════════════  3D CITY  ═══════════════════════════ -->
+<h2 align="center">🌃 My Contribution Skyline</h2>
 
+<!-- Regenerated daily by .github/workflows/profile-3d.yml (colours in .github/profile-3d-settings.json) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Dhruba/Dev-Dhruba/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Dhruba/Dev-Dhruba/output/github-snake.svg"/>
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Dev-Dhruba/Dev-Dhruba/output/github-snake-dark.svg"/>
-  </picture>
+  <img src="./profile-3d-contrib/profile-neon-city.svg" width="100%" alt="3D neon city built from my contribution calendar"/>
 </div>
 
 <br/>
